@@ -1,0 +1,27 @@
+NPM INIT
+(IN PAKAGE FILE START : NODE ENTRY FILE
+EX:  “START”:  “NODE APP.JS”
+npm install
+npm install nodemon --save-dev
+
+npm install --save express    
+npm install --save body-parser
+npm i ejs
+npm install --save mysql2
+npm install --save sequelize
+npm I cors
+npm install cors
+npm install bcrypt
+npm install jsonwebtoken
+npm i helmet
+npm install compression
+
+npm i morgan
+
+Returns the compression middleware using the given options. The middleware will attempt to compress response bodies for all request that traverse through the middleware, based on the given options.
+This middleware will never compress responses that include a Cache-Control header with the no-transform directive, as compressing will transform the body.
+
+Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!model file is nothing but a data base 
+bcrypt - npm (npmjs.com)
+
+jsonwebtoken - npm (npmjs.com)
